@@ -1,5 +1,5 @@
 # Projeto Sentinela: Monitoramento de Poluição Oceânica
-
+!(link do projeto)[https://github.com/Pontessxx/DYNAMIC-GS]
 ## Descrição do Projeto
 
 O Projeto Sentinela visa desenvolver uma rede de sensores inteligentes utilizando técnicas de programação dinâmica para otimizar a alocação de sensores subaquáticos e a coleta de dados sobre a poluição oceânica. Este sistema é capaz de identificar áreas críticas de poluição e priorizar ações de monitoramento e resposta, contribuindo para a preservação dos recursos marinhos.
