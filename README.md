@@ -39,3 +39,12 @@ A função usar_dados_ficticios demonstra a aplicação do algoritmo de otimiza�
 
 ## Conclusão
 O Projeto Sentinela utiliza técnicas avançadas de programação dinâmica para otimizar a alocação de sensores subaquáticos, permitindo uma coleta de dados eficiente e precisa sobre a poluição oceânica. As funções implementadas fornecem uma base robusta para o monitoramento contínuo e a resposta proativa a problemas ambientais, contribuindo para a conservação e a sustentabilidade dos oceanos.
+
+
+
+# Programação Dinâmica:
+
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms. MIT Press. Este livro é uma referência abrangente sobre algoritmos, incluindo programação dinâmica.
+- Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Pearson. Este livro fornece uma boa introdução à programação dinâmica com muitos exemplos práticos.
+- Geodesia e Fórmula de Haversine: de Smith, M. J., Goodchild, M. F., & Longley, P. (2018). Geospatial Analysis: A Comprehensive Guide to Principles, Techniques and Software Tools. Troubador - Publishing. Este livro é uma excelente referência sobre análises geoespaciais.
+- Snyder, J. P. (1987). Map Projections: A Working Manual. U.S. Geological Survey Professional Paper 1395. Este manual é uma boa fonte de informações sobre diferentes projeções cartográficas e cálculos geodésicos.
